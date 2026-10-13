@@ -1,4 +1,4 @@
-6ef503006b56551beebac0f9f82d97e52a45deec## eCash (ECX) Integration Guide
+1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa## eCash (ECX) Integration Guide
 
 Last updated: **2026-09-22**, during the **betanet** stage.
 
