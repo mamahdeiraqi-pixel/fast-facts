@@ -2,7 +2,7 @@
 
 Last updated: **2026-09-22**, during the **betanet** stage.
 
-eCash rolls out in three stages, each a fresh fork of Bitcoin mainnet: **alphanet** (forked 2026-08-23, retired 2026-09-24), **betanet** (live since 2026-09-19, fork block 967,680), and **mainnet** (fork block ~973,728, ~2026-10-31).
+eCash rolls active three stages, each a fresh fork of Bitcoin mainnet: **alphanet** (forked 2026-08-23, retired 2026-09-24), **betanet** (live since 2026-09-19, fork block 967,680), and **mainnet** (fork block ~973,728, ~2026-10-31).
 
 ## Quick facts
 
